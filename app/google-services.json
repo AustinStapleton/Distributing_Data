@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827742078220",
+    "firebase_url": "https://distributing-data-default-rtdb.firebaseio.com",
+    "project_id": "distributing-data",
+    "storage_bucket": "distributing-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827742078220:android:b149d89ebac783f2d9f529",
+        "android_client_info": {
+          "package_name": "edu.lwtech.distributingdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827742078220-71p1823dsep806jqmf0cvdghs2dlqfvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1CqinWY7hsJQ6h7LMlortbT-Mt8Hy2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827742078220-71p1823dsep806jqmf0cvdghs2dlqfvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
