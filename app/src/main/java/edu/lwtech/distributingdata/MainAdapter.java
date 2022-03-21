@@ -31,7 +31,7 @@ public class MainAdapter extends FirebaseRecyclerAdapter<MainModel,MainAdapter.m
         holder.name.setText(model.getName());
         holder.type.setText(model.getType());
         holder.rank.setText(model.getRank());
-        holder.description.setText(model.getDescription());
+ //       holder.description.setText(model.getDescription());
 
         Glide.with(holder.img.getContext())
                 .load(model.getTurl())

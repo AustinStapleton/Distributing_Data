@@ -25,5 +25,17 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        ImageButton fab1 = findViewById(R.id.fab1);
+        fab1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this,
+                        ThirdActivity.class);
+                //intent.putExtra(EXTRA_MESSAGE, mOrderMessage);
+                startActivity(intent);
+            }
+        });
     }
+
 }

@@ -2,7 +2,11 @@ package edu.lwtech.distributingdata;
 
 public class MainModel {
 
-    String description, name, rank, turl, type;
+    String description;
+    String name;
+    String rank;
+    String turl;
+    String type;
     MainModel()
     {
 
